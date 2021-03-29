@@ -169,7 +169,7 @@ function! s:setDictionaries()
         \ 'slim'     : '',
         \ 'haml'     : '',
         \ 'ejs'      : '',
-        \ 'css'      : '',
+        \ 'css'      : '',
         \ 'less'     : '',
         \ 'md'       : '',
         \ 'mdx'      : '',
@@ -278,6 +278,8 @@ function! s:setDictionaries()
         \ 'tex'      : 'ﭨ',
         \ 'r'        : 'ﳒ',
         \ 'rproj'    : '鉶',
+        \ 'svg'    : 'ﰟ',
+        \ 'xml'    : '',
         \}
 
   let s:file_node_exact_matches = {
