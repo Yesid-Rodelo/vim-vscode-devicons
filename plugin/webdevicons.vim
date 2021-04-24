@@ -330,6 +330,7 @@ function! s:setDictionaries()
         \ '.*angular.*\.js$'      : '',
         \ '.*module.*\.ts$'       : '',
         \ '.*component.*\.ts$'    : '',
+        \ '.*service.*\.ts$'      : '',
         \ '.*spec.*\.ts$'         : '',
         \ '.*backbone.*\.js$'     : '',
         \ '.*require.*\.js$'      : '',
